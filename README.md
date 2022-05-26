@@ -1,2 +1,2 @@
 # emirhan-ates.github.io
-my first website
+My First Website Project
